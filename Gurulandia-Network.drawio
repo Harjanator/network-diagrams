@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T08:22:51.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="2jKCROauz2L3G3jz6UXn" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T08:51:46.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="-v_cg6qaTwrqqcYqPH5L" version="16.6.2" type="github">
   <diagram id="KyIBKFyuBe1oRPsiNU8R" name="Page-1">
     <mxGraphModel dx="894" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -98,29 +98,29 @@
         <mxCell id="YRLlY--aoW11vG_20f-W-21" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="130" y="-790" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YRLlY--aoW11vG_20f-W-29" value="" style="endArrow=classic;html=1;jumpStyle=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="YRLlY--aoW11vG_20f-W-21">
+        <mxCell id="YRLlY--aoW11vG_20f-W-29" value="" style="endArrow=classic;html=1;jumpStyle=none;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YRLlY--aoW11vG_20f-W-95">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="-770" as="sourcePoint" />
-            <mxPoint x="210" y="-630" as="targetPoint" />
+            <mxPoint x="10" y="-675" as="sourcePoint" />
+            <mxPoint x="40" y="-619.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YRLlY--aoW11vG_20f-W-31" value="Jakamo" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=none;sketch=0;strokeColor=default;" connectable="0" vertex="1" parent="YRLlY--aoW11vG_20f-W-29">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YRLlY--aoW11vG_20f-W-32" value="" style="endArrow=classic;html=1;jumpStyle=none;entryX=0.013;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YRLlY--aoW11vG_20f-W-21" target="YRLlY--aoW11vG_20f-W-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="-600" as="sourcePoint" />
-            <mxPoint x="240" y="-600" as="targetPoint" />
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRLlY--aoW11vG_20f-W-34" value="Seinä&lt;br&gt;Rasia 7" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=none;sketch=0;strokeColor=default;" connectable="0" vertex="1" parent="YRLlY--aoW11vG_20f-W-32">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="12" y="20" as="offset" />
+        <mxCell id="YRLlY--aoW11vG_20f-W-32" value="" style="endArrow=classic;html=1;jumpStyle=none;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YRLlY--aoW11vG_20f-W-21" target="YRLlY--aoW11vG_20f-W-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="-600" as="sourcePoint" />
+            <mxPoint x="250" y="-580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="-640" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YRLlY--aoW11vG_20f-W-35" value="Port Wan" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;sketch=0;strokeColor=default;" connectable="0" vertex="1" parent="YRLlY--aoW11vG_20f-W-32">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-11" as="offset" />
+            <mxPoint x="10" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YRLlY--aoW11vG_20f-W-36" value="" style="endArrow=classic;startArrow=classic;html=1;jumpStyle=none;exitX=0.75;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YRLlY--aoW11vG_20f-W-3" target="YRLlY--aoW11vG_20f-W-10">
@@ -148,12 +148,13 @@
             <mxPoint x="-360" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRLlY--aoW11vG_20f-W-56" value="" style="endArrow=classic;html=1;jumpStyle=none;entryX=0;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YRLlY--aoW11vG_20f-W-5">
+        <mxCell id="YRLlY--aoW11vG_20f-W-56" value="" style="endArrow=classic;html=1;jumpStyle=none;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.43;exitY=1;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="YRLlY--aoW11vG_20f-W-95" target="YRLlY--aoW11vG_20f-W-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="-600" as="sourcePoint" />
             <mxPoint x="770" y="-610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="650" y="-600" />
+              <mxPoint x="280" y="-530" />
+              <mxPoint x="640" y="-530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -165,9 +166,14 @@
         <mxCell id="YRLlY--aoW11vG_20f-W-59" value="Port3" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;sketch=0;strokeColor=default;" connectable="0" vertex="1" parent="YRLlY--aoW11vG_20f-W-56">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YRLlY--aoW11vG_20f-W-68" value="&lt;span style=&quot;text-align: left&quot;&gt;Seinä&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Rasia 8&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=none;sketch=0;strokeColor=default;" connectable="0" vertex="1" parent="YRLlY--aoW11vG_20f-W-56">
+        <mxCell id="YRLlY--aoW11vG_20f-W-68" value="&lt;span style=&quot;text-align: left&quot;&gt;rasia 8&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=none;sketch=0;strokeColor=default;" connectable="0" vertex="1" parent="YRLlY--aoW11vG_20f-W-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-135" as="offset" />
+            <mxPoint x="-305" y="-103" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRLlY--aoW11vG_20f-W-99" value="&lt;span style=&quot;text-align: left&quot;&gt;rasia 7&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=none;sketch=0;strokeColor=default;" connectable="0" vertex="1" parent="YRLlY--aoW11vG_20f-W-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-331" y="-180" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="" VLANID="200" Network="192.168.200.0/24" id="YRLlY--aoW11vG_20f-W-63">
@@ -206,6 +212,14 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <mxCell id="YRLlY--aoW11vG_20f-W-101" style="edgeStyle=orthogonalEdgeStyle;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.27;entryY=0;entryDx=0;entryDy=-6;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YRLlY--aoW11vG_20f-W-21" target="YRLlY--aoW11vG_20f-W-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="-750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRLlY--aoW11vG_20f-W-95" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;labelBackgroundColor=none;sketch=0;points=[[0,0.5,0,0,0],[0.27,0,0,0,-6],[0.27,1,0,0,5],[0.43,1,0,0,5],[0.59,1,0,0,5],[0.65,0,0,0,-6],[0.75,1,0,0,5],[0.97,1,0,0,1]];" vertex="1" parent="1">
+          <mxGeometry x="80" y="-680" width="100" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
